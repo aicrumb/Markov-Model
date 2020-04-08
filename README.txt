@@ -17,3 +17,7 @@ rnns
 and stuff
 
 -spronkoid
+
+p.s. fiddle around with the 'input_length' variable
+lower tends to yield results that are further from the dataset in my experience
+and higher tends to emulate the same action as 'overfitting' in dnns
