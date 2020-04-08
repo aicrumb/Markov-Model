@@ -13,7 +13,8 @@ Advantages:
 Disadvantages:
   Larger Models take up more space than DNNs
   Larger Models can be slower than DNNs
-  "Overfits" almost constantly with smaller corpora
+  "Overfits" almost constantly with smaller corpora (overfits is not the right word lmao)
+    (resembles the data so closely that it just starts to cut and paste the original as it's own)
 
 
 i dont know the difference and didn't do any research beforehand because honestly i didn't care to learn about these
