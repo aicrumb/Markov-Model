@@ -21,3 +21,5 @@ and stuff
 p.s. fiddle around with the 'input_length' variable
 lower tends to yield results that are further from the dataset in my experience
 and higher tends to emulate the same action as 'overfitting' in dnns
+
+and yes i know it wasn't implemented correctly with like, probabilities or something but i wanted to get it done as quick as possible and to be honest i couldn't give two shits
