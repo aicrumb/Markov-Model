@@ -7,6 +7,15 @@ https://en.wikipedia.org/wiki/Markov_model
 might actually be one of these?:
 https://en.wikipedia.org/wiki/Markov_chain
 
+Advantages:
+  Easy to implement
+  Quicker to run (in most cases?)
+Disadvantages:
+  Larger Models take up more space than DNNs
+  Larger Models can be slower than DNNs
+  "Overfits" almost constantly with smaller corpora
+
+
 i dont know the difference and didn't do any research beforehand because honestly i didn't care to learn about these
 i usually use deep learning anyway like
 
